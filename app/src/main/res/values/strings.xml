@@ -9,4 +9,9 @@
     <string name="female">Female</string>
     <string name="phoneNum">Enter Phone No.</string>
     <string name="PaxNum">No. of Pax</string>
+    <string name="reset">Reset</string>
+    <string name="confirm">Confirm</string>
+    <string name="smoking_area">Smoking Area</string>
+    <string name="table">Table :</string>
+    <string name="hname">Name</string>
 </resources>

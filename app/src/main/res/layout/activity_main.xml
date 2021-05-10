@@ -49,7 +49,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="4"
                     android:ems="10"
-                    android:hint="Name"
+                    android:hint="@string/hname"
                     android:inputType="textPersonName" />
 
             </LinearLayout>
@@ -160,14 +160,14 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
                     android:layout_weight="1"
-                    android:text="Table :" />
+                    android:text="@string/table" />
 
                 <CheckBox
                     android:id="@+id/smoking"
                     android:layout_width="279dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Smoking Area" />
+                    android:text="@string/smoking_area" />
 
             </LinearLayout>
 
@@ -181,14 +181,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Confirm" />
+                    android:text="@string/confirm" />
 
                 <Button
                     android:id="@+id/reset"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Reset" />
+                    android:text="@string/reset" />
             </LinearLayout>
 
             <TextView
