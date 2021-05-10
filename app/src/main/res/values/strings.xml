@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name">Name ：</string>
+    <string name="phone">Phone :</string>
+    <string name="pax">Size :</string>
+    <string name="reservation">Make a Reservation</string>
+    <string name="gender">Gender :</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="phoneNum">Enter Phone No.</string>
+    <string name="PaxNum">No. of Pax</string>
+</resources>
